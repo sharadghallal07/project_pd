@@ -1,0 +1,1 @@
+from .pl_product_details import *
